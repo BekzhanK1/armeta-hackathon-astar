@@ -1,9 +1,12 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/dimalbek/innovateX.git
+	branch = main
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/AlikhanNasa7/Armeta-hackaton
+	branch = main
 [submodule "models-microservice"]
 	path = models-microservice
 	url = https://github.com/BekzhanK1/models_armeta.git
+	branch = main
